@@ -32,3 +32,7 @@ Final Approval.  Upon a Draft Deliverable reaching Working Group Approved status
 Publication and Submission.  Upon the designation of a Draft Deliverable as an Approved Deliverable, the Executive Director will publish the Approved Deliverable in a manner agreed upon by the Working Group Participants (i.e., Project Participant only location, publicly available location, Project maintained website, Project member website, etc.).  The publication of an Approved Deliverable in a publicly accessible manner must include the terms under which the Approved Deliverable and/or source code is being made available under, as set forth in the applicable Working Group Charter.
 
 Submissions to Standards Bodies.  No Draft Deliverable or Approved Deliverable may be submitted to another standards development organization without Approval by the Steering Members.  Upon Approval by the Steering Members, the Executive Director will coordinate the submission of the applicable Draft Deliverable or Approved Deliverable to another standards development organization with Joint Development Foundation Projects, LLC.    Working Group Participants that developed that Draft Deliverable or Approved Deliverable agree to grant the copyright rights necessary to make those submissions.
+
+**License**
+
+The contents of this repository are licensed under the [Creative Commons Attribution 4.0 International License](LICENSE) (CC-BY-4.0), as set by the CalTRACK Working Group Charter.
